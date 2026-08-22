@@ -1,0 +1,11 @@
+item,alcance_mes,impacto,confianca,esforco_pts,outcome,fonte_alcance
+Agendar consulta basica pelo celular,5600,3,0.8,13,O2/O3,"9340 agendadas/mes x 60% basica"
+Lembrete WhatsApp D-1 com confirmacao,9340,3,0.7,5,O1,"todas as agendadas/mes"
+Cancelamento em 2 toques,383,2,0.9,3,O4,"4.1% de 9340"
+Fila automatica de vaga liberada,383,3,0.5,13,O4,"mesmo alcance do cancelamento"
+Recepcionista agenda pelo cidadao,2800,2,0.9,8,O3,"[A CONFIRMAR] estimativa 30% da demanda"
+Login gov.br,3550,3,0.6,8,O2,"38% da base com gov.br prata+ (confianca baixa)"
+Identificacao por CNS + data nascimento,6630,3,0.9,5,O2,"71% com CNS ativo"
+Painel de ocupacao para regulacao,12,2,0.8,13,O4,"12 UBS = 12 usuarios"
+Relatorio mensal PDF prestacao de contas,1,1,1.0,3,legal,"obrigacao mensal"
+Busca de paciente pelo nome da mae,2800,1,0.8,2,O3,"mesmo alcance do assistido"
