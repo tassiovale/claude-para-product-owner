@@ -5,7 +5,7 @@ description: |
   solução disfarçada, bug, trabalho técnico, requisito não-funcional, duplicata,
   obrigação legal), recupera o problema por trás de cada pedido e recomenda
   destino. Gatilhos: "organiza esse backlog", "chegou uma lista de pedidos",
-  "o que fazer com esses itens", "limpa o backlog", "isso é história ou bug?".
+  "o que fazer com esses itens", "limpa o backlog", "isso é história ou bug?", "triagem do backlog".
   Roda antes de escrever qualquer história.
 tools: Read, Write, Grep, Glob
 model: sonnet
