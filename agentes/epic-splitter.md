@@ -4,7 +4,7 @@ description: |
   Fatia épicos grandes em fatias verticais entregáveis, usando SPIDR e as
   técnicas clássicas de story splitting. Use quando um épico, feature ou
   história não couber em uma sprint. Gatilhos: "quebra esse épico", "isso está
-  grande demais", "como fatiar", "dividir em histórias menores", "essa história
+  grande demais", "como fatiar", "fatiamento vertical", "dividir em histórias menores", "essa história
   ficou de 21 pontos". Entrega uma PROPOSTA de fatias com justificativa de
   valor — não escreve as histórias finais (isso é do story-writer).
 tools: Read, Write, Grep, Glob
